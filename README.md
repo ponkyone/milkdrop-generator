@@ -1,4 +1,4 @@
-# app
+# milkdrop-generator for winamp and projectM
 
 ## Project setup
 ```
